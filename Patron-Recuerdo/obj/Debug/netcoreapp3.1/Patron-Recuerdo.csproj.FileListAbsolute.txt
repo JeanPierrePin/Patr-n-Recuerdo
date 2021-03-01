@@ -1,0 +1,13 @@
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\bin\Debug\netcoreapp3.1\Patron-Recuerdo.exe
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\bin\Debug\netcoreapp3.1\Patron-Recuerdo.deps.json
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\bin\Debug\netcoreapp3.1\Patron-Recuerdo.runtimeconfig.json
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\bin\Debug\netcoreapp3.1\Patron-Recuerdo.runtimeconfig.dev.json
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\bin\Debug\netcoreapp3.1\Patron-Recuerdo.dll
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\bin\Debug\netcoreapp3.1\Patron-Recuerdo.pdb
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\obj\Debug\netcoreapp3.1\Patron-Recuerdo.csprojAssemblyReference.cache
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\obj\Debug\netcoreapp3.1\Patron-Recuerdo.AssemblyInfoInputs.cache
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\obj\Debug\netcoreapp3.1\Patron-Recuerdo.AssemblyInfo.cs
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\obj\Debug\netcoreapp3.1\Patron-Recuerdo.csproj.CoreCompileInputs.cache
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\obj\Debug\netcoreapp3.1\Patron-Recuerdo.dll
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\obj\Debug\netcoreapp3.1\Patron-Recuerdo.pdb
+C:\Users\sandra\source\repos\Patron Recuerdo\Patron-Recuerdo\obj\Debug\netcoreapp3.1\Patron-Recuerdo.genruntimeconfig.cache
